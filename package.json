@@ -35,7 +35,8 @@
     "@radix-ui/react-label": "~2.1.7",
     "@radix-ui/react-select": "~2.2.5",
     "tailwindcss-animate": "~1.0.7",
-    "@line/bot-sdk": "^8.0.0"
+    "@line/bot-sdk": "^8.0.0",
+    "gray-matter": "^4.0.3"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
@@ -45,4 +46,3 @@
     "eslint": "^8.0.0",
     "eslint-config-next": "^14.0.0"
   }
-}
